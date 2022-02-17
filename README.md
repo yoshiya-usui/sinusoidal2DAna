@@ -12,6 +12,7 @@ Originally, Schwalenberg and Edwards (2004) proposed the formulation, and later,
 # How to use
 1) First, modified Bessel function is calculated with MATLAB program "cal.m"
 2) Next, analytical response functions are calculated with C++ program "sinusoidal2DAna.cpp". In executing the program, you need to specify the file created by "cal.m", the file name in which location of observation points are written, and the period(sec) by its arguments as follows.
+
    *sinusoidal2DAna  "File name of modified Bessel function" "File name of observation points" "Period(sec)"*
 
 # File format
