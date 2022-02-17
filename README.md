@@ -2,10 +2,9 @@
 This program to calculate analytical appanret resistivity, phasae, and vertical magnetic transfer functions for a sinusoidal interface.
 The algorithm is based on the following studies.
 
-*K. Schwalenberg, and R.N. Edwards. The effect of seafloor topography on magnetotelluric fields: an analytical formulation confirmed with
-numerical results, Geophys. J. Int., 159(2), 607–621, 2004.*
+*K. Schwalenberg, R. N. Edwards, The effect of seafloor topography on magnetotelluric fields: an analytical formulation confirmed with numerical results, Geophysical Journal International, Volume 159, Issue 2, November 2004, Pages 607–621, https://doi.org/10.1111/j.1365-246X.2004.02280.x*
 
-*Y. Usui, T. Kasaya, Y. Ogawa and H. Iwamoto, Marine magnetotelluric inversion with an unstructured tetrahedral mesh, Geophys. J. Int., 214(2): 952-974, https://doi.org/10.1093/gji/ggy171, 2018.*
+*Yoshiya Usui, Takafumi Kasaya, Yasuo Ogawa, Hisanori Iwamoto, Marine magnetotelluric inversion with an unstructured tetrahedral mesh, Geophysical Journal International, Volume 214, Issue 2, August 2018, Pages 952–974, https://doi.org/10.1093/gji/ggy171*
 
 Originally, Schwalenberg and Edwards (2004) proposed the formulation, and later, Usui et al. (2018) modified the formulation for the TM-mode.
 
