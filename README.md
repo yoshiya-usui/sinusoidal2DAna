@@ -16,11 +16,11 @@ Originally, Schwalenberg and Edwards (2004) proposed the formulation, and later,
    *sinusoidal2DAna  "File name of modified Bessel function" "File name of observation points" "Period(sec)"*
 
 # File format
-  **File for observation points** 
-  Number of observation points  
-  Coordinate (m) of the 1st point 
-  Coordinate (m) of the 2nd point 
-  Coordinate (m) of the 3rd point 
-  ...
+**File for observation points** 
+Number of observation points  
+Coordinate (m) of the 1st point 
+Coordinate (m) of the 2nd point 
+Coordinate (m) of the 3rd point 
+...
   
  
