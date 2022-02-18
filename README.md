@@ -16,16 +16,21 @@ Originally, Schwalenberg and Edwards (2004) proposed the formulation, and later,
    *sinusoidal2DAna  "File name of modified Bessel function" "File name of observation points" "Period(sec)"*
 
 # File format
-***File for observation points***
+  ***File for observation points (arbitrary name)***
 
-[Number of observation points]
+  [Number of observation points]
 
-[Coordinate (m) of the 1st point]
+  [X-coordinate(m) of the 1st point]
 
-[Coordinate (m) of the 2nd point]
+  [X-coordinate(m) of the 2nd point]
 
-[Coordinate (m) of the 3rd point]
+  [X-coordinate(m) of the 3rd point]
 
-...
+  ...
   
+  ***Resultant file for the TE-mode***
+  
+  [X-coordinate(m) of the 1st point] [Z-coordinate(m) of the 1st point] [apparent resistivity(Ohm-m) of the upper region]  [phase(deg.) of the upper region]  [apparent resistivity(Ohm-m) of the lower region]  [phase(deg.) of the lower region]
+  [X-coordinate(m) of the 2nd point] [Z-coordinate(m) of the 2nd point] [apparent resistivity(Ohm-m) of the upper region]  [phase(deg.) of the upper region]  [apparent resistivity(Ohm-m) of the lower region]  [phase(deg.) of the lower region]
+  [X-coordinate(m) of the 3rd point] [Z-coordinate(m) of the 3rd point] [apparent resistivity(Ohm-m) of the upper region]  [phase(deg.) of the upper region]  [apparent resistivity(Ohm-m) of the lower region]  [phase(deg.) of the lower region]
  
