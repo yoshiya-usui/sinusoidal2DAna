@@ -16,7 +16,7 @@ Originally, Schwalenberg and Edwards (2004) proposed the formulation, and later,
    *sinusoidal2DAna  "File name of modified Bessel function" "File name of observation points" "Period(sec)"*
 
 # File format
-**File for observation points**
+***File for observation points***
 
 [Number of observation points]
 
