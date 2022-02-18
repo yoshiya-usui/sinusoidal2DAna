@@ -1,5 +1,5 @@
 # Function
-This program to calculate analytical MT apparent resistivity, phasae, and vertical magnetic transfer functions for a sinusoidal interface.
+This program to calculate analytical MT apparent resistivity, phasae, and vertical magnetic transfer functions for a 2-D sinusoidal interface.
 The algorithm is based on the following studies.
 
 *K. Schwalenberg, R. N. Edwards, The effect of seafloor topography on magnetotelluric fields: an analytical formulation confirmed with numerical results, Geophysical Journal International, Volume 159, Issue 2, November 2004, Pages 607–621, https://doi.org/10.1111/j.1365-246X.2004.02280.x*
