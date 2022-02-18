@@ -17,9 +17,8 @@ Originally, Schwalenberg and Edwards (2004) proposed the formulation, and later,
 
 # File format
   **File for observation points** 
-  
   Number of observation points
-  Coordinate (m) of the 1st point  
+  Coordinate (m) of the 1st point
   Coordinate (m) of the 2nd point
   Coordinate (m) of the 3rd point
   ...
