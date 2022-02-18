@@ -28,9 +28,11 @@ Originally, Schwalenberg and Edwards (2004) proposed the formulation, and later,
 
   ...
   
-  ***Resultant file for the TE-mode***
+  ***Resultant file for the TE-mode (TE.txt)***
   
   [X-coordinate(m) of the 1st point] [Z-coordinate(m) of the 1st point] [apparent resistivity(Ohm-m) of the upper region]  [phase(deg.) of the upper region]  [apparent resistivity(Ohm-m) of the lower region]  [phase(deg.) of the lower region]
+  
   [X-coordinate(m) of the 2nd point] [Z-coordinate(m) of the 2nd point] [apparent resistivity(Ohm-m) of the upper region]  [phase(deg.) of the upper region]  [apparent resistivity(Ohm-m) of the lower region]  [phase(deg.) of the lower region]
+  
   [X-coordinate(m) of the 3rd point] [Z-coordinate(m) of the 3rd point] [apparent resistivity(Ohm-m) of the upper region]  [phase(deg.) of the upper region]  [apparent resistivity(Ohm-m) of the lower region]  [phase(deg.) of the lower region]
  
