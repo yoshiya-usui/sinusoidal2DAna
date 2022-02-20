@@ -10,7 +10,7 @@ Originally, Schwalenberg and Edwards (2004) proposed the formulation, and later,
 
 # How to use
 1) Conductivities, amplitude, and wavelength are specified by sigma1, sigma2, delta, and lambda in "cal.m" and those in calcBetaGammaTE and calcBetaGammaTM of "sinusoidal2DAna.cpp".
-2) Calculate modified Bessel function by a MATLAB program "cal.m"
+2) Calculate modified Bessel function by a MATLAB program "cal.m". Periods (sec) should be specified by variable T in "cal.m".
 3) Calculate analytical response functions by a C++ program "sinusoidal2DAna.cpp". In executing the program, you need to specify the file created by "cal.m", the file name in which location of observation points are written, and the period(sec) by its arguments as follows.
 
    *sinusoidal2DAna  "File name of modified Bessel function" "File name of observation points" "Period(sec)"*
