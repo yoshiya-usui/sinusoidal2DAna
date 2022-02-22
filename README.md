@@ -8,7 +8,7 @@ The algorithm is based on the following studies.
 
 Originally, Schwalenberg and Edwards (2004) proposed the formulation, and later, Usui et al. (2018) modified the formulation for the TM-mode.
 
-The results of the program were used to verify the 3-D magnetotelluric inversion code FEMTIC (https://github.com/yoshiya-usui/femtic.git).
+The results of the program were used to verify 3-D magnetotelluric inversion code FEMTIC (https://github.com/yoshiya-usui/femtic.git).
 
 # How to use
 1) Conductivities, amplitude, and wavelength are specified by sigma1, sigma2, delta, and lambda in "cal.m" and those in calcBetaGammaTE and calcBetaGammaTM of "sinusoidal2DAna.cpp".
